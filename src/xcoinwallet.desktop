@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Xcoin Wallet
+Comment=Xcoin wallet
+Exec=xcoinwallet %U
+Terminal=false
+Type=Application
+Icon=xcoin
+MimeType=x-scheme-handler/xcoin;
+Categories=Office;Finance;
